@@ -36,7 +36,7 @@ The goal of this project was to build a player that reads VGM data and drives a 
 
 ## Credits & Inspiration
 
-This project was heavily inspired by [Fujix1's NanoDrive-Dual-OPN](https://github.com/Fujix1/NanoDrive-Dual-OPN). I highly recommend checking out their repository for schematics and a complete OPN implementation.
+This project was heavily inspired by [Fujix1's NanoDrive-Dual-OPN](https://github.com/Fujix1/NanoDrive-Dual-OPN). I highly recommend checking out their repository for schematics and a more complete implementation.
 
 ## License
 
