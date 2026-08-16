@@ -5,6 +5,7 @@
 ## Demo
 
 [![VGM Player Demo](https://img.youtube.com/vi/W29TKDpeAnI/0.jpg)](https://www.youtube.com/watch?v=W29TKDpeAnI)
+
 *(Click the image to watch a quick demo of the board running)*
 
 ## Overview
